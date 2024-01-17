@@ -50,7 +50,7 @@ Kibana запустилась:
 
 ![img_3.png](IMG/img_3.png)
 
-Docker-compose манифест и yml-конфигурации для стека доступны по ссылке:
+Docker-compose манифест и yml-конфигурации для стека доступны по ссылке: https://github.com/DemoniumBlack/fedorchukds-devops-33-29/tree/main/SRC
 
 ## Решение 2
 
